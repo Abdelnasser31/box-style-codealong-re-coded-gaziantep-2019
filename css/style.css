@@ -320,7 +320,9 @@ color: #fff;
 }
 /*////////// LOGO //////////*/
 
-
+#logo{
+  padding: 0 0 84px;
+}
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
