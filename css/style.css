@@ -311,6 +311,10 @@ header {
   text-decoration: none; 
   font: 1em Arial, sans-serif;
 }
+#navbar nav a.selected{
+  background: #ccc;
+  color: #fff;
+}
 /*////////// LOGO //////////*/
 
 
